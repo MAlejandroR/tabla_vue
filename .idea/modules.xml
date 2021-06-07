@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///var/www/1/.idea/1.iml" filepath="/var/www/1/.idea/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../auth1/.idea/auth1.iml" filepath="$PROJECT_DIR$/../auth1/.idea/auth1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cronometro/.idea/cronometro.iml" filepath="$PROJECT_DIR$/../cronometro/.idea/cronometro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ej.iml" filepath="$PROJECT_DIR$/.idea/ej.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../roles/.idea/empresa_roles1.iml" filepath="$PROJECT_DIR$/../roles/.idea/empresa_roles1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mi_auth/.idea/mi_auth.iml" filepath="$PROJECT_DIR$/../mi_auth/.idea/mi_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../p1/.idea/p1.iml" filepath="$PROJECT_DIR$/../p1/.idea/p1.iml" />
+      <module fileurl="file://$USER_HOME$/proyecto2/.idea/proyecto2.iml" filepath="$USER_HOME$/proyecto2/.idea/proyecto2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tienda/.idea/tienda.iml" filepath="$PROJECT_DIR$/../tienda/.idea/tienda.iml" />
+    </modules>
+  </component>
+</project>
